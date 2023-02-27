@@ -1,0 +1,61 @@
+/* colors */
+
+$-white: #f9f9f9;
+$-white-two: #ffffff;
+
+$-black: #303030;
+
+$-gray: #5e5e5e;
+$-ligh-gray: #b2b2b2;
+
+$-red: #ff5b5b;
+
+$-green-kiwi: #8fe360;
+$-weird-green: #57e690;
+
+$-orange-pastel: #ff915b;
+$-orange-pale: #ffbe5b;
+
+$-bleu: #57dbe6;
+
+$-gold-light: #ffdf5b;
+
+$-Brown-Sorrell: #CFB995;
+$-Brown-Sorrell-two: #D0BA93;
+
+// put it all in maps ?? 
+
+/* break points */
+
+$-breakpoints: (
+  small : 480px,
+  medium: 640px,
+  large : 1024px
+);
+
+
+/* typography for diffrent screens */
+
+$-p-font-sizes: (
+  null  : 15px,
+  small : 16px,
+  medium: 17px,
+  large : 19px
+);
+
+$-h1-font-sizes: (
+  null  : 28px,
+  small : 31px,
+  medium: 33px,
+  large : 36px
+);
+
+
+/* spacing */
+$base-padding: 0.75rem;
+$base-margin: 0.75rem;
+
+
+/* borders */ 
+$base-border-thickness: 1px;
+$base-border-radius: 20px;
